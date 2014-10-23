@@ -1,0 +1,14 @@
+[
+	{
+		"spawnTime" : 100,
+	 	"ships" :
+	 	[
+	 		{ "name" : "Glider", "position" : [6, 20, 0], "velocity" : [0, -0.10, 0] }
+	 	]
+	},
+	
+	{
+		"spawnTime" : 200,
+	 	"ships" : []
+	}
+]
